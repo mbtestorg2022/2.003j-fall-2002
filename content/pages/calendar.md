@@ -4,44 +4,516 @@ title: Calendar
 uid: 651482cc-d030-d878-4735-f3c9e040a9b9
 ---
 
-| DAY# | TOPICS | ASSIGNMENTS |
-| --- | --- | --- |
-| 1 |  {{< br >}}{{< br >}} Introduction and Motivation {{< br >}}{{< br >}} Kinematics {{< br >}}{{< br >}}  | Problem Set 1 |
-| 2 | Kinematics | &nbsp; |
-| 3 | Kinematics | &nbsp; |
-| 4 | Recitation |  {{< br >}}{{< br >}} Problem Set 2 {{< br >}}{{< br >}} Problem Set 1 Due {{< br >}}{{< br >}}  |
-| 5 | Momentum Formulation for Systems of Particles | &nbsp; |
-| 6 | Momentum Formulation for Systems of Particles | &nbsp; |
-| 7 | Recitation |  {{< br >}}{{< br >}} Problem Set 3 {{< br >}}{{< br >}} Problem Set 2 Due {{< br >}}{{< br >}}  |
-| 8 | Momentum Formulation for Systems of Particles | &nbsp; |
-| 9 | Recitation | Problem Set 4  {{< br >}}Problem Set 3 Due |
-| 10 | Variational Formulation for Systems of Particles | &nbsp; |
-| 11 | Variational Formulation for Systems of Particles | &nbsp; |
-| 12 | Recitation | Problem Set 5  {{< br >}}Problem Set 4 Due |
-| 13 | Quiz 1 | &nbsp; |
-| 14 | Variational Formulation for Systems of Particles | &nbsp; |
-| 15 | Variational Formulation for Systems of Particles | Problem Set6 |
-| 16 | Recitation | Problem Set 5 Due |
-| 17 | Recitation | Problem Set7  {{< br >}}Problem Set 6 Due |
-| 18 | Variational Formulation for Systems of Particles | &nbsp; |
-| 19 | Dynamics of Systems Containing Rigid Bodies | &nbsp; |
-| 20 | Recitation | Problem Set8  {{< br >}}Problem Set 7 Due |
-| 21 | Dynamics of Systems Containing Rigid Bodies | &nbsp; |
-| 22 | Dynamics of Systems Containing Rigid Bodies | &nbsp; |
-| 23 | Recitation | Problem Set9  {{< br >}}Problem Set 8 Due |
-| 24 | Dynamics of Systems Containing Rigid Bodies | &nbsp; |
-| 25 | Vibration of Linear Lumped-Parameter Systems | &nbsp; |
-| 26 | Recitation | Problem Set10  {{< br >}}Problem Set 9 Due |
-| 27 | Vibration of Linear Lumped-Parameter Systems | &nbsp; |
-| 28 | Recitation | Problem Set 11  {{< br >}}Problem Set 10 Due |
-| 29 | Quiz II | &nbsp; |
-| 30 | Vibration of Linear Lumped-Parameter Systems | &nbsp; |
-| 31 | Recitation | Problem Set12  {{< br >}}Problem Set 11 Due |
-| 32 | Vibration of Linear Lumped-Parameter Systems | &nbsp; |
-| 33 | Vibration of Linear Lumped-Parameter Systems | &nbsp; |
-| 34 | Recitation | Problem Set13  {{< br >}}Problem Set 12 Due |
-| 35 | Vibration of Linear Lumped-Parameter Systems | &nbsp; |
-| 36 | Recitation | Problem Set 13 Due |
-| 37 | Dynamics of Continuous Systems | &nbsp; |
-| 38 | Dynamics of Continuous Systems | &nbsp; |
-| 39 | Recitation: Final Exam Review |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+DAY#
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+ASSIGNMENTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Introduction and Motivation
+
+Kinematics
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Kinematics
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Kinematics
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Recitation
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Problem Set 2
+
+Problem Set 1 Due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Momentum Formulation for Systems of Particles
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Momentum Formulation for Systems of Particles
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Recitation
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Problem Set 3
+
+Problem Set 2 Due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Momentum Formulation for Systems of Particles
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Recitation
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 4  
+Problem Set 3 Due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Variational Formulation for Systems of Particles
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Variational Formulation for Systems of Particles
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Recitation
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 5  
+Problem Set 4 Due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 1
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Variational Formulation for Systems of Particles
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Variational Formulation for Systems of Particles
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set6
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Recitation
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 5 Due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Recitation
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set7  
+Problem Set 6 Due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Variational Formulation for Systems of Particles
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Dynamics of Systems Containing Rigid Bodies
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Recitation
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set8  
+Problem Set 7 Due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Dynamics of Systems Containing Rigid Bodies
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Dynamics of Systems Containing Rigid Bodies
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Recitation
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set9  
+Problem Set 8 Due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Dynamics of Systems Containing Rigid Bodies
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Vibration of Linear Lumped-Parameter Systems
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Recitation
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set10  
+Problem Set 9 Due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+27
+{{< tdclose >}}
+{{< tdopen >}}
+Vibration of Linear Lumped-Parameter Systems
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+28
+{{< tdclose >}}
+{{< tdopen >}}
+Recitation
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 11  
+Problem Set 10 Due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+29
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz II
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+30
+{{< tdclose >}}
+{{< tdopen >}}
+Vibration of Linear Lumped-Parameter Systems
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+31
+{{< tdclose >}}
+{{< tdopen >}}
+Recitation
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set12  
+Problem Set 11 Due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+32
+{{< tdclose >}}
+{{< tdopen >}}
+Vibration of Linear Lumped-Parameter Systems
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+33
+{{< tdclose >}}
+{{< tdopen >}}
+Vibration of Linear Lumped-Parameter Systems
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+34
+{{< tdclose >}}
+{{< tdopen >}}
+Recitation
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set13  
+Problem Set 12 Due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+35
+{{< tdclose >}}
+{{< tdopen >}}
+Vibration of Linear Lumped-Parameter Systems
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+36
+{{< tdclose >}}
+{{< tdopen >}}
+Recitation
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 13 Due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+37
+{{< tdclose >}}
+{{< tdopen >}}
+Dynamics of Continuous Systems
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+38
+{{< tdclose >}}
+{{< tdopen >}}
+Dynamics of Continuous Systems
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+39
+{{< tdclose >}}
+{{< tdopen >}}
+Recitation: Final Exam Review
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
